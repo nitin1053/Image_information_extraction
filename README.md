@@ -36,6 +36,8 @@ AUTHOR="Nitin Jha"
    \`\`\`sh
    python image_analysis.py
    \`\`\`
+   Export the google credentials
+   export GOOGLE_APPLICATION_CREDENTIALS="path of your credentials.json"
 
 ## Project Structure
 - **image_analysis.py**: Python script for text extraction and image segmentation.
